@@ -9,7 +9,3 @@ To ensure the model's availability and seamless integration, I saved the trained
 
 Using the Streamlit framework, I created a user-friendly web application that leverages the trained model to deliver highly accurate movie recommendations. Users can explore the application, input their movie preferences, and instantly receive a curated list of similar movies that align with their tastes.
  I was able to develop a powerful recommendation engine that enhances user experiences and aids in discovering new and exciting movies.
- 
-![Uploading movie 1.png…]()
-![Uploading movie3.png…]()
-
